@@ -5,7 +5,7 @@ let nome = (" Homem de Ferro ");
 let xp = ("Radiante");
 
 // Utiliza uma estrutura de decisão para determinar o nível do herói
-var nivel;
+let nivel;
 
 if (xp < 1000) {
     nivel = "Ferro";
